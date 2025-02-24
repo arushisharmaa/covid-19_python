@@ -8,7 +8,7 @@ Original file is located at
 """
 
 # Install packages if not already installed
-pip install access pandas geopandas matplotlib
+# pip install access pandas geopandas matplotlib
 
 # Import libraries
 import logging
