@@ -1,0 +1,20 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {"type": "Point", "coordinates": [30.304778845361394, -97.74592912261525]}, 
+            "properties": {"geoid": "h1", "hospital_count": 1}
+        },
+        {
+            "type": "Feature",
+            "geometry": {"type": "Point", "coordinates": [30.28287406319397, -97.73496874165395]},
+            "properties": {"geoid": "h2", "hospital_count": 1}
+        },
+        {
+            "type": "Feature",
+            "geometry": {"type": "Point", "coordinates": [30.291933253092953, -97.72683422794647]},
+            "properties": {"geoid": "h3", "hospital_count": 1}
+        }
+    ]
+}

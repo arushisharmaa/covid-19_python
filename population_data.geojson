@@ -1,0 +1,20 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {"type": "Point", "coordinates": [30.302070750967573, -97.71966508777723]},
+            "properties": {"geoid": "p1", "population": 1}
+        },
+        {
+            "type": "Feature",
+            "geometry": {"type": "Point", "coordinates": [30.30155201971944, -97.72009424119675]},
+            "properties": {"geoid": "p2", "population": 1}
+        },
+        {
+            "type": "Feature",
+            "geometry": {"type": "Point", "coordinates": [30.285717951178498, -97.77487656450931]},
+            "properties": {"geoid": "p3", "population": 1}
+        }
+    ]
+}
